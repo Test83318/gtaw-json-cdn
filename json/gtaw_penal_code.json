@@ -7927,7 +7927,7 @@
             "auto": true,
             "cost": 0
         },
-        "extra": "N/A"
+        "extra": "(( You must still arrest and complete post arrest processing as normal for this plea in the no jailtime version. In case of a guilty/no contest plea, this means that you will immediately release them. In case of a not guilty plea, you are to follow the bail schedule ))"
     },
     "609": {
         "id": "609",
